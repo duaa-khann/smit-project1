@@ -1,0 +1,70 @@
+#logo {
+    margin-top: 100px;
+}
+   
+.text1{
+position: absolute;
+width: 438px;
+height: 156px;
+left: 149px;
+top: 212px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 42px;
+line-height: 52px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+}
+
+
+.text2 {
+position: absolute;
+width: 438px;
+height: 52px;
+left: 149px;
+top: 432px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+display: flex;
+align-items: center;
+color: #9A9EA5;
+
+
+}
+button{
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 5px 26px;
+gap: 10px;
+
+position: absolute;
+width: 200px;
+height: 60px;
+left: 149px;
+top: 548px;
+
+background: linear-gradient(100deg, #92EBF1 0%, #86FDE8 100%);
+border-radius: 30px;
+
+}
+img{
+position: absolute;
+width: 854px;
+height: 854px;
+left: 720px;
+top: -27px;
+
+
+}
